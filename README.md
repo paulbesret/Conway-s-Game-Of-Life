@@ -11,5 +11,5 @@ This game became widely known when it was mentioned in an article published by S
 <p>Each cell with one or no neighbors dies, as if by solitude.<br />
 Each cell with four or more neighbors dies, as if by overpopulation.<br />
 Each cell with two or three neighbors survives.</p><br />
-<h4>For a space that is 'empty' or 'unpopulated'<h4><br />
+<h4>For a space that is 'empty' or 'unpopulated'</h4><br />
 <p>Each cell with three neighbors becomes populated.</p>
